@@ -18,11 +18,13 @@
   <a href="https://www.linkedin.com/in/mrsyaban"><img width="32px" src="https://www.linkpicture.com/q/linkedin-3-48.png" type="image"></a>
 </p>
 
-<details>
+
   <summary><h1>💻 GitHub Profile Stats</h1></summary>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
+  
+  <div style="text-align:center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrsyaban&show_icons=true&hide_border=true&theme=radical&count_private=true" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsyaban&langs_count=8&theme=radical&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px" />
+  </div>
+   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
-  <br/>
- </details>
+
