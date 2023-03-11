@@ -23,10 +23,10 @@
   
   <p>
     <a>
-    <img alt="mrsyaban's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrsyaban&show_icons=true&hide_border=true&theme=radical&count_private=true" height="192px" style="display:inline-block;margin-right:10px;" />
+    <img alt="mrsyaban's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrsyaban&show_icons=true&hide_border=true&theme=radical&count_private=true" height="192px" />
     </a>
     <a>
-    <img alt="mrsyaban's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsyaban&langs_count=8&theme=radical&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px" style="display:inline-block;margin-left:10px;" />
+    <img alt="mrsyaban's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsyaban&langs_count=8&theme=radical&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px" />
     </a>
   </p>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
