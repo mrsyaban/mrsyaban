@@ -18,7 +18,6 @@
   <a href="https://www.linkedin.com/in/mrsyaban"><img width="32px" src="https://www.linkpicture.com/q/linkedin-3-48.png" type="image"></a>
 </p>
 
-<details>
   <summary><h1>📊 GitHub Profile Stats</h1></summary>
   
   <p>
@@ -28,5 +27,4 @@
     </a>
     </p>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- </details>
 
