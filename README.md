@@ -17,7 +17,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/mrsyaban"><img width="32px" src="https://www.linkpicture.com/q/linkedin-3-48.png" type="image"></a>
 </p>
-
+<p align="center"> 
+Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development and software development. Still new about that stuff but looking for opportunity to collaborate with others!
+ </p>
   <summary><h1>📊 GitHub Profile Stats</h1></summary>
   
   <p>
