@@ -21,12 +21,8 @@
 Currently majoring in Informatics Engineering at Institut Teknologi Bandung. Interested in full-stack web development and software development. Still new about that stuff but looking for opportunity to collaborate with others!
  </p>
   <summary><h1>📊 GitHub Profile Stats</h1></summary>
-  
-  <p>
-  <a>
-    <img alt="mrsyaban's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrsyaban&show_icons=true&hide_border=true&theme=radical&count_private=true" height="192px" />
-    <img alt="mrsyaban's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsyaban&langs_count=8&theme=radical&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px" />
-    </a>
-    </p>
-   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrsyaban&theme=dracula&count_private=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsyaban&theme=dracula&count_private=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsyaban&theme=dracula&count_private=true)|
+|-----|------|------|
+
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
